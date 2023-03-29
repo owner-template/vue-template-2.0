@@ -1,0 +1,5 @@
+./node_modules/*.js
+./startand/*.js
+.eslintcache
+./dist/*
+./commitlint.config.js
